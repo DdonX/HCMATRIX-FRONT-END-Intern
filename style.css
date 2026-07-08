@@ -1,3 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: #000000;
+    background-color: #b2bfeb;
+    line-height: 1.7;
+    letter-spacing: 0.02em;
+}
+
 .nav-links a {
     text-decoration: none;
     color: #414141;
