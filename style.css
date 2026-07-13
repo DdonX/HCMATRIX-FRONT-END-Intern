@@ -1,9 +1,7 @@
 * {
     box-sizing: border-box;
     margin: 0;
-    
 }
-
 
 /* Header */
 .main-header {
@@ -197,9 +195,7 @@
     background-color: #000;
 }
 
-
 <!-----HOME PAGE------->
-
 .home-main {
     padding-top: 4rem;
     padding-bottom: 4rem;
@@ -269,4 +265,3 @@
     color: #444;
     font-size: 0.95rem;
 }
-
