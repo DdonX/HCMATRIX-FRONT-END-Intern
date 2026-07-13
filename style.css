@@ -98,7 +98,7 @@
 
 .profile-image {
     max-width: 100%;
-    height: auto;
+    height:max-content;
     object-fit: cover;
     filter: grayscale(15%);
 }
