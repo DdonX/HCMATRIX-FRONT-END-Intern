@@ -3,7 +3,6 @@
     margin: 0;
 }
 
-
 /* Header */
 .main-header {
     display: flex;
@@ -96,8 +95,8 @@
 }
 
 .profile-image {
-    width: 100%;
-    height: auto;
+    max-width: 100%;
+    height:max-content;
     object-fit: cover;
     filter: grayscale(15%);
 }
@@ -196,9 +195,7 @@
     background-color: #000;
 }
 
-
 <!-----HOME PAGE------->
-
 .home-main {
     padding-top: 4rem;
     padding-bottom: 4rem;
